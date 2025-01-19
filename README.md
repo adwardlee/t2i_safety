@@ -5,7 +5,7 @@
   <h4>
     <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
     <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=adwardlee.t2i_safety" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=adwardlee.t2i_safety-badge" />
     <img src="https://img.shields.io/github/stars/adwardlee/t2i_safety?color=yellow" alt="Stars">
     <img src="https://img.shields.io/github/issues/adwardlee/t2i_safety?color=red" alt="Issues">
   </h4>
