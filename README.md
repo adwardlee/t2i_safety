@@ -48,11 +48,13 @@ Network architecture and additional loss of ImageGuard. Visual representations a
 <h2 id="citation">📑 Citation</h2>
 
 ```bibtex
-@article{libenchmarking,
-  title={Benchmarking Ethics in Text-to-Image Models: A Holistic Dataset and Evaluator for Fairness, Toxicity, and Privacy},
-  author={Li, Lijun and Shi, Zhelun and Hu, Xuhao and Dong, Bowen and Qin, Yiran and Liu, Xihui and Sheng, Lu and Shao, Jing}
+@article{li2025t2isafety,
+  title={T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation},
+  author={Li, Lijun and Shi, Zhelun and Hu, Xuhao and Dong, Bowen and Qin, Yiran and Liu, Xihui and Sheng, Lu and Shao, Jing},
+  journal={arXiv preprint arXiv:2501.12612},
+  year={2025}
 }
 ```
 
 <hr>
-<p align="center">SALAD-Bench Team</p>
+<p align="center">T2Isafety Team</p>
