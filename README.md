@@ -10,10 +10,13 @@
     <img src="https://img.shields.io/github/issues/adwardlee/t2i_safety?color=red" alt="Issues">
   </h4>
 
-  <h4> | <a href="https://huggingface.co/datasets/OpenSafetyLab/t2isafety_evaluation" target="_blank">📖 T2I eval data</a> | <a href="https://huggingface.co/OpenSafetyLab/ImageGuard" target="_blank">🤗 ImageGuard</a> | <a href="https://arxiv.org/abs/2501.12612" target="_black">📖 Paper</a>|
+  <h4> | <a href="[https://huggingface.co/datasets/OpenSafetyLab/t2isafety_evaluation](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset)" target="_blank">🤗 ImageGuard dataset</a> | <a href="https://huggingface.co/datasets/OpenSafetyLab/t2isafety_evaluation" target="_blank">📖 T2I safety eval data</a> | <a href="https://huggingface.co/OpenSafetyLab/ImageGuard" target="_blank">🤗 ImageGuard</a> | <a href="https://arxiv.org/abs/2501.12612" target="_black">📖 Paper</a>|
   </h4>
 </div>
 
+## 🚀 News
+- **[2025/7/10]** We release the training and testing dataset for ImageGuard at [Huggingface](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset)
+- **[2025/6/5]** Our paper get accepted at CVPR2025: [site](https://openaccess.thecvf.com/content/CVPR2025/html/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.html)
 
 <h2 id="T2ISafety">🎉 Introduction</h2>
 
